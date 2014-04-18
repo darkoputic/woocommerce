@@ -1,4 +1,4 @@
-# 
+#
 # Translators:
 # Alexander Tinyaev <dix.alex@gmail.com>, 2014
 # me2you, 2014
@@ -20,14 +20,17 @@ msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2014-03-24 12:16:53+00:00\n"
-"PO-Revision-Date: 2014-03-29 20:10+0000\n"
+"PO-Revision-Date: 2014-04-17 20:24-0600\n"
 "Last-Translator: Alexander Tinyaev <dix.alex@gmail.com>\n"
-"Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/woocommerce/language/ru_RU/)\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/"
+"woocommerce/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ru_RU\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.4\n"
 
 #: assets/js/admin/editor_plugin_lang.php:5
 msgid "Insert Shortcode"
@@ -2186,8 +2189,8 @@ msgstr "Укаяли"
 
 #: i18n/states/TH.php:13
 msgid ""
-"Amnat Charoen "
-"(&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;&#3636;&#3597;)"
+"Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;"
+"&#3636;&#3597;)"
 msgstr "Амнатчарен"
 
 #: i18n/states/TH.php:14
@@ -2196,14 +2199,14 @@ msgstr "Ангтхонг"
 
 #: i18n/states/TH.php:15
 msgid ""
-"Ayutthaya "
-"(&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
+"Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;"
+"&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
 msgstr "Аюттхая"
 
 #: i18n/states/TH.php:16
 msgid ""
-"Bangkok "
-"(&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;&#3634;&#3609;&#3588;&#3619;)"
+"Bangkok (&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;"
+"&#3634;&#3609;&#3588;&#3619;)"
 msgstr "Бангкок"
 
 #: i18n/states/TH.php:17
@@ -2217,8 +2220,8 @@ msgstr "Бурирам"
 
 #: i18n/states/TH.php:19
 msgid ""
-"Chachoengsao "
-"(&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;&#3634;)"
+"Chachoengsao (&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;"
+"&#3634;)"
 msgstr "Чаченгсау"
 
 #: i18n/states/TH.php:20
@@ -2257,14 +2260,14 @@ msgstr "Каласин"
 
 #: i18n/states/TH.php:28
 msgid ""
-"Kamphaeng Phet "
-"(&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;&#3619;)"
+"Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;"
+"&#3619;)"
 msgstr "Кампхэнгпхет"
 
 #: i18n/states/TH.php:29
 msgid ""
-"Kanchanaburi "
-"(&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;&#3637;)"
+"Kanchanaburi (&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;"
+"&#3637;)"
 msgstr "Канчанабури"
 
 #: i18n/states/TH.php:30
@@ -2293,14 +2296,14 @@ msgstr "Лопбури"
 
 #: i18n/states/TH.php:36
 msgid ""
-"Mae Hong Son "
-"(&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;&#3609;)"
+"Mae Hong Son (&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;"
+"&#3609;)"
 msgstr "Мэхонгсон"
 
 #: i18n/states/TH.php:37
 msgid ""
-"Maha Sarakham "
-"(&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;&#3617;)"
+"Maha Sarakham (&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;"
+"&#3617;)"
 msgstr "Махасаракам"
 
 #: i18n/states/TH.php:38
@@ -2321,20 +2324,20 @@ msgstr "Нахон Фаном (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)"
 
 #: i18n/states/TH.php:42
 msgid ""
-"Nakhon Ratchasima "
-"(&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;&#3617;&#3634;)"
+"Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;"
+"&#3617;&#3634;)"
 msgstr "Накхонратчасима"
 
 #: i18n/states/TH.php:43
 msgid ""
-"Nakhon Sawan "
-"(&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;&#3660;)"
+"Nakhon Sawan (&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;"
+"&#3660;)"
 msgstr "Накхонсаван"
 
 #: i18n/states/TH.php:44
 msgid ""
-"Nakhon Si Thammarat "
-"(&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;&#3619;&#3617;&#3619;&#3634;&#3594;)"
+"Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;"
+"&#3619;&#3617;&#3619;&#3634;&#3594;)"
 msgstr "Накхонситхаммарат"
 
 #: i18n/states/TH.php:45
@@ -2347,9 +2350,11 @@ msgstr "Наратхиват"
 
 #: i18n/states/TH.php:47
 msgid ""
-"Nong Bua Lam Phu "
-"(&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;&#3635;&#3616;&#3641;)"
-msgstr "Нонг Буа Лам Фу (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;&#3635;&#3616;&#3641;)"
+"Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;"
+"&#3635;&#3616;&#3641;)"
+msgstr ""
+"Нонг Буа Лам Фу (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;"
+"&#3635;&#3616;&#3641;)"
 
 #: i18n/states/TH.php:48
 msgid "Nong Khai (&#3627;&#3609;&#3629;&#3591;&#3588;&#3634;&#3618;)"
@@ -2360,8 +2365,7 @@ msgid "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
 msgstr "Нонтхабури"
 
 #: i18n/states/TH.php:50
-msgid ""
-"Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
+msgid "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
 msgstr "Патхумтхани"
 
 #: i18n/states/TH.php:51
@@ -2407,14 +2411,14 @@ msgstr "Пхукет"
 
 #: i18n/states/TH.php:61
 msgid ""
-"Prachin Buri "
-"(&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;&#3637;)"
+"Prachin Buri (&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;"
+"&#3637;)"
 msgstr "Прачинбури"
 
 #: i18n/states/TH.php:62
 msgid ""
-"Prachuap Khiri Khan "
-"(&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
+"Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;"
+"&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
 msgstr "Прачуапкхирикхан"
 
 #: i18n/states/TH.php:63
@@ -2443,20 +2447,20 @@ msgstr "Сакон Нахон (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)"
 
 #: i18n/states/TH.php:69
 msgid ""
-"Samut Prakan "
-"(&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;&#3634;&#3619;)"
+"Samut Prakan (&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;"
+"&#3634;&#3619;)"
 msgstr "Самутпракан"
 
 #: i18n/states/TH.php:70
 msgid ""
-"Samut Sakhon "
-"(&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;&#3619;)"
+"Samut Sakhon (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;"
+"&#3619;)"
 msgstr "Самутсакхон"
 
 #: i18n/states/TH.php:71
 msgid ""
-"Samut Songkhram "
-"(&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;&#3619;&#3634;&#3617;)"
+"Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;"
+"&#3619;&#3634;&#3617;)"
 msgstr "Самутсонгкхрам"
 
 #: i18n/states/TH.php:72
@@ -2486,14 +2490,14 @@ msgstr "Сукхотхай"
 
 #: i18n/states/TH.php:78
 msgid ""
-"Suphan Buri "
-"(&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;&#3637;)"
+"Suphan Buri (&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;"
+"&#3637;)"
 msgstr "Супханбури"
 
 #: i18n/states/TH.php:79
 msgid ""
-"Surat Thani "
-"(&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;&#3634;&#3609;&#3637;)"
+"Surat Thani (&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;"
+"&#3634;&#3609;&#3637;)"
 msgstr "Сураттани"
 
 #: i18n/states/TH.php:80
@@ -2514,9 +2518,11 @@ msgstr "Транг"
 
 #: i18n/states/TH.php:84
 msgid ""
-"Ubon Ratchathani "
-"(&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;&#3634;&#3609;&#3637;)"
-msgstr "Убон Ратчатхани (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;&#3634;&#3609;&#3637;)"
+"Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;"
+"&#3634;&#3609;&#3637;)"
+msgstr ""
+"Убон Ратчатхани (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;"
+"&#3634;&#3609;&#3637;)"
 
 #: i18n/states/TH.php:85
 msgid "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
@@ -2524,8 +2530,7 @@ msgstr "Удонтхани"
 
 #: i18n/states/TH.php:86
 msgid ""
-"Uthai Thani "
-"(&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
+"Uthai Thani (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
 msgstr "Утхайтхани"
 
 #: i18n/states/TH.php:87
@@ -3275,9 +3280,10 @@ msgstr "Удалить файл шаблона"
 
 #: includes/abstracts/abstract-wc-email.php:740
 msgid ""
-"This template has been overridden by your theme and can be found in: "
-"<code>%s</code>."
-msgstr "Этот шаблон был переопределен вашей темой и находится здесь: <code>%s</code>."
+"This template has been overridden by your theme and can be found in: <code>"
+"%s</code>."
+msgstr ""
+"Этот шаблон был переопределен вашей темой и находится здесь: <code>%s</code>."
 
 #: includes/abstracts/abstract-wc-email.php:755
 msgid "Copy file to theme"
@@ -3287,7 +3293,9 @@ msgstr "Скопировать файл в тему"
 msgid ""
 "To override and edit this email template copy <code>%s</code> to your theme "
 "folder: <code>%s</code>."
-msgstr "Чтобы переопределить и изменить шаблон письма, скопируйте <code>%s</code> в папку с темой: <code>%s</code>."
+msgstr ""
+"Чтобы переопределить и изменить шаблон письма, скопируйте <code>%s</code> в "
+"папку с темой: <code>%s</code>."
 
 #: includes/abstracts/abstract-wc-email.php:769
 msgid "File was not found."
@@ -3585,7 +3593,8 @@ msgstr "Ваши права ограничивают доступ к этой с
 #: includes/class-wc-ajax.php:294 includes/class-wc-ajax.php:321
 #: includes/class-wc-ajax.php:338
 msgid "You have taken too long. Please go back and retry."
-msgstr "Прошло слишком много времени. Пожалуйста, вернитесь и попытайтесь снова."
+msgstr ""
+"Прошло слишком много времени. Пожалуйста, вернитесь и попытайтесь снова."
 
 #: includes/class-wc-ajax.php:551
 msgid "Same as parent"
@@ -3661,20 +3670,28 @@ msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order (%s in "
 "stock). Please edit your cart and try again. We apologise for any "
 "inconvenience caused."
-msgstr "К сожалению, у нас недостаточно \"%s\" для выполнения заказа (в наличии %s). Пожалуйста, измените значение в корзине и попробуйте ещё раз. Приносим извинения за доставленные неудобства."
+msgstr ""
+"К сожалению, у нас недостаточно \"%s\" для выполнения заказа (в наличии %s). "
+"Пожалуйста, измените значение в корзине и попробуйте ещё раз. Приносим "
+"извинения за доставленные неудобства."
 
 #: includes/class-wc-cart.php:460
 msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order right "
 "now. Please try again in %d minutes or edit your cart and try again. We "
 "apologise for any inconvenience caused."
-msgstr "Извините, у нас не хватает \"%s\" в запасе, чтобы выполнить ваш заказ прямо сейчас. Пожалуйста, попробуйте снова через %d минут или изменить вашу корзину и попробуйте снова. Приносим извинения за доставленные неудобства."
+msgstr ""
+"Извините, у нас не хватает \"%s\" в запасе, чтобы выполнить ваш заказ прямо "
+"сейчас. Пожалуйста, попробуйте снова через %d минут или изменить вашу "
+"корзину и попробуйте снова. Приносим извинения за доставленные неудобства."
 
 #: includes/class-wc-cart.php:470
 msgid ""
 "Sorry, \"%s\" is not in stock. Please edit your cart and try again. We "
 "apologise for any inconvenience caused."
-msgstr "К сожалению, \"%s\" нет в наличии. Пожалуйста, измените список товаров в корзине и попробуйте ещё раз. Приносим извинения за доставленные неудобства."
+msgstr ""
+"К сожалению, \"%s\" нет в наличии. Пожалуйста, измените список товаров в "
+"корзине и попробуйте ещё раз. Приносим извинения за доставленные неудобства."
 
 #: includes/class-wc-cart.php:798
 msgid "Sorry, &quot;%s&quot; cannot be purchased."
@@ -3684,13 +3701,16 @@ msgstr "Извините, &quot;%s&quot; не может быть куплен."
 msgid ""
 "You cannot add &quot;%s&quot; to the cart because the product is out of "
 "stock."
-msgstr "Нельзя добавить &quot;%s&quot; в корзину, так как товара нет на складе."
+msgstr ""
+"Нельзя добавить &quot;%s&quot; в корзину, так как товара нет на складе."
 
 #: includes/class-wc-cart.php:810
 msgid ""
 "You cannot add that amount of &quot;%s&quot; to the cart because there is "
 "not enough stock (%s remaining)."
-msgstr "Нельзя добавить такое количество &quot;%s&quot; в корзину, так как товара недостаточно на складе (осталось %s)."
+msgstr ""
+"Нельзя добавить такое количество &quot;%s&quot; в корзину, так как товара "
+"недостаточно на складе (осталось %s)."
 
 #: includes/class-wc-cart.php:824 includes/class-wc-cart.php:843
 #: includes/class-wc-cart.php:856 includes/class-wc-frontend-scripts.php:157
@@ -3706,7 +3726,9 @@ msgstr "Вы не можете добавить ещё &quot;%s&quot; в кор�
 msgid ""
 "You cannot add that amount to the cart &mdash; we have %s in stock and you "
 "already have %s in your cart."
-msgstr "Вы не можете добавить эту сумму к корзине &mdash; у нас на складе есть %s, а у вас уже %s в корзине."
+msgstr ""
+"Вы не можете добавить эту сумму к корзине &mdash; у нас на складе есть %s, а "
+"у вас уже %s в корзине."
 
 #: includes/class-wc-checkout.php:64 includes/class-wc-checkout.php:73
 #: includes/class-wc-emails.php:67 includes/class-wc-emails.php:76
@@ -3741,7 +3763,8 @@ msgstr "Заметки к заказу"
 #: includes/class-wc-checkout.php:117
 msgctxt "placeholder"
 msgid "Notes about your order, e.g. special notes for delivery."
-msgstr "Примечания к вашему заказу, например, особые пожелания отделу доставки."
+msgstr ""
+"Примечания к вашему заказу, например, особые пожелания отделу доставки."
 
 #: includes/class-wc-checkout.php:176
 msgid "Order &ndash; %s"
@@ -3758,9 +3781,11 @@ msgstr "Зарезервировано"
 
 #: includes/class-wc-checkout.php:423
 msgid ""
-"Sorry, your session has expired. <a href=\"%s\" class=\"wc-backward\">Return"
-" to homepage</a>"
-msgstr "К сожалению, сессия истекла. <a href=\"%s\" class=\"wc-backward\">На главную</a>"
+"Sorry, your session has expired. <a href=\"%s\" class=\"wc-backward\">Return "
+"to homepage</a>"
+msgstr ""
+"К сожалению, сессия истекла. <a href=\"%s\" class=\"wc-backward\">На "
+"главную</a>"
 
 #: includes/class-wc-checkout.php:498 includes/class-wc-form-handler.php:88
 msgid "is a required field."
@@ -3781,7 +3806,8 @@ msgstr "некорректный email."
 
 #: includes/class-wc-checkout.php:540
 msgid "is not valid. Please enter one of the following:"
-msgstr "введено некорректно. Пожалуйста, выберите один из последующих вариантов:"
+msgstr ""
+"введено некорректно. Пожалуйста, выберите один из последующих вариантов:"
 
 #: includes/class-wc-checkout.php:585
 msgid "You must accept our Terms &amp; Conditions."
@@ -3791,7 +3817,9 @@ msgstr "Вам необходимо принять наши условия и п
 msgid ""
 "Unfortunately <strong>we do not ship to %s</strong>. Please enter an "
 "alternative shipping address."
-msgstr "К сожалению, <strong>мы не доставляем в %s</strong>. Пожалуйста, введите другой адрес доставки."
+msgstr ""
+"К сожалению, <strong>мы не доставляем в %s</strong>. Пожалуйста, введите "
+"другой адрес доставки."
 
 #: includes/class-wc-checkout.php:598
 msgid "Invalid shipping method."
@@ -4932,13 +4960,15 @@ msgstr "Такой купон не существует!"
 msgid ""
 "Sorry, it seems the coupon \"%s\" is invalid - it has now been removed from "
 "your order."
-msgstr "Извините, похоже, купон \"%s\" некорректен - он удалён из вашего заказа."
+msgstr ""
+"Извините, похоже, купон \"%s\" некорректен - он удалён из вашего заказа."
 
 #: includes/class-wc-coupon.php:608
 msgid ""
 "Sorry, it seems the coupon \"%s\" is not yours - it has now been removed "
 "from your order."
-msgstr "Извините, похоже, купон \"%s\" не ваш - он был удален из вашего заказа."
+msgstr ""
+"Извините, похоже, купон \"%s\" не ваш - он был удален из вашего заказа."
 
 #: includes/class-wc-coupon.php:611
 msgid "Coupon code already applied!"
@@ -4948,7 +4978,9 @@ msgstr "Код купона уже использован!"
 msgid ""
 "Sorry, coupon \"%s\" has already been applied and cannot be used in "
 "conjunction with other coupons."
-msgstr "Извините, купон \"%s\" уже выбран и не может быть использован в сочетании с другими купонами."
+msgstr ""
+"Извините, купон \"%s\" уже выбран и не может быть использован в сочетании с "
+"другими купонами."
 
 #: includes/class-wc-coupon.php:617
 msgid "Coupon usage limit has been reached."
@@ -4964,7 +4996,9 @@ msgstr "Минимальная сумма расходов для этого к�
 
 #: includes/class-wc-coupon.php:626
 msgid "Sorry, this coupon is not applicable to your cart contents."
-msgstr "Извините, этот купон не может быть использован для товаров, которые находятся у вас в корзине."
+msgstr ""
+"Извините, этот купон не может быть использован для товаров, которые "
+"находятся у вас в корзине."
 
 #: includes/class-wc-coupon.php:629
 msgid "Sorry, this coupon is not valid for sale items."
@@ -5121,7 +5155,8 @@ msgstr "В корзину можно положить только 1 %s."
 
 #: includes/class-wc-form-handler.php:492
 msgid "The cart has been filled with the items from your previous order."
-msgstr "Это корзина была наполнена наименованиями из вашего предыдущего заказа."
+msgstr ""
+"Это корзина была наполнена наименованиями из вашего предыдущего заказа."
 
 #: includes/class-wc-form-handler.php:515
 msgid "Order cancelled by customer."
@@ -5145,7 +5180,9 @@ msgstr "Пожалуйста, укажите опции товара&hellip;"
 #: includes/class-wc-form-handler.php:657
 msgid ""
 "Please choose the quantity of items you wish to add to your cart&hellip;"
-msgstr "Пожалуйста, выберите количество товаров, которое вы хотите добавить в корзину&hellip;"
+msgstr ""
+"Пожалуйста, выберите количество товаров, которое вы хотите добавить в "
+"корзину&hellip;"
 
 #: includes/class-wc-form-handler.php:664
 msgid "Please choose a product to add to your cart&hellip;"
@@ -5201,12 +5238,15 @@ msgstr "обязательно"
 msgid ""
 "Sorry, no products matched your selection. Please choose a different "
 "combination."
-msgstr "Извините, нет товаров, соответствующих вашему выбору. Пожалуйста, выберите другую комбинацию."
+msgstr ""
+"Извините, нет товаров, соответствующих вашему выбору. Пожалуйста, выберите "
+"другую комбинацию."
 
 #: includes/class-wc-frontend-scripts.php:165
 msgid ""
 "Sorry, this product is unavailable. Please choose a different combination."
-msgstr "Извините, такой товар недоступен. Пожалуйста, выберите другую комбинацию."
+msgstr ""
+"Извините, такой товар недоступен. Пожалуйста, выберите другую комбинацию."
 
 #: includes/class-wc-frontend-scripts.php:170
 msgid "Select an option&hellip;"
@@ -5681,7 +5721,9 @@ msgstr "Родительский купон"
 #: includes/class-wc-post-types.php:338
 msgid ""
 "This is where you can add new coupons that customers can use in your store."
-msgstr "Здесь можно добавить новые купоны, которые пользователи смогут использовать в магазине"
+msgstr ""
+"Здесь можно добавить новые купоны, которые пользователи смогут использовать "
+"в магазине"
 
 #: includes/class-wc-product-external.php:86
 msgid "Buy product"
@@ -5721,7 +5763,9 @@ msgstr "%s &ndash; %s%s"
 msgid ""
 "Use $args[\"posts_per_page\"] instead. Deprecated argument will be removed "
 "in WC 2.2."
-msgstr "Используйте $args[\"posts_per_page\"] . Устаревший аргумент будет удален в WC 2.2."
+msgstr ""
+"Используйте $args[\"posts_per_page\"] . Устаревший аргумент будет удален в "
+"WC 2.2."
 
 #: includes/emails/class-wc-email-customer-completed-order.php:26
 msgid "Completed order"
@@ -5731,7 +5775,9 @@ msgstr "Выполненный заказ"
 msgid ""
 "Order complete emails are sent to the customer when the order is marked "
 "complete and usual indicates that the order has been shipped."
-msgstr "Письмо о выполнении заказа отправляется покупателю, когда заказ помечен как выполненный, обычно это значит, что заказ был отправлен."
+msgstr ""
+"Письмо о выполнении заказа отправляется покупателю, когда заказ помечен как "
+"выполненный, обычно это значит, что заказ был отправлен."
 
 #: includes/emails/class-wc-email-customer-completed-order.php:29
 msgid "Your order is complete"
@@ -5748,7 +5794,8 @@ msgstr "Ваш заказ выполнен - скачать файлы"
 #: includes/emails/class-wc-email-customer-completed-order.php:40
 msgid ""
 "Your {site_title} order from {order_date} is complete - download your files"
-msgstr "Ваш заказ на {site_title} от {order_date} выполнен - загрузить ваши файлы"
+msgstr ""
+"Ваш заказ на {site_title} от {order_date} выполнен - загрузить ваши файлы"
 
 #: includes/emails/class-wc-email-customer-completed-order.php:146
 #: includes/emails/class-wc-email-new-order.php:133
@@ -5776,7 +5823,9 @@ msgstr "Счет на оплату клиентом"
 msgid ""
 "Customer invoice emails can be sent to the user containing order info and "
 "payment links."
-msgstr "Письма со счётом-фактурой для покупателей могут быть отправлены с указанием информации о заказе и ссылки для оплаты."
+msgstr ""
+"Письма со счётом-фактурой для покупателей могут быть отправлены с указанием "
+"информации о заказе и ссылки для оплаты."
 
 #: includes/emails/class-wc-email-customer-invoice.php:35
 msgid "Invoice for order {order_number} from {order_date}"
@@ -5810,7 +5859,9 @@ msgstr "Новая учетная запись"
 msgid ""
 "Customer new account emails are sent when a customer signs up via the "
 "checkout or My Account page."
-msgstr "Письмо для нового аккаунта отправляется при регистрации на странице оформления заказа или на странице \"Мой профиль\"."
+msgstr ""
+"Письмо для нового аккаунта отправляется при регистрации на странице "
+"оформления заказа или на странице \"Мой профиль\"."
 
 #: includes/emails/class-wc-email-customer-new-account.php:39
 msgid "Your account on {site_title}"
@@ -5844,7 +5895,9 @@ msgstr "Заказ в обработке"
 msgid ""
 "This is an order notification sent to the customer after payment containing "
 "order details."
-msgstr "Это уведовление отправляется покупателю после оплаты, содержит подробности заказа."
+msgstr ""
+"Это уведовление отправляется покупателю после оплаты, содержит подробности "
+"заказа."
 
 #: includes/emails/class-wc-email-customer-processing-order.php:29
 msgid "Thank you for your order"
@@ -5862,7 +5915,9 @@ msgstr "Сбросить пароль"
 msgid ""
 "Customer reset password emails are sent when a customer resets their "
 "password."
-msgstr "Письмо со сбросом пароля отправляется, когда покупатель сбрасывает свой пароль."
+msgstr ""
+"Письмо со сбросом пароля отправляется, когда покупатель сбрасывает свой "
+"пароль."
 
 #: includes/emails/class-wc-email-customer-reset-password.php:44
 msgid "Password Reset for {site_title}"
@@ -5894,21 +5949,25 @@ msgstr "Получатели"
 
 #: includes/emails/class-wc-email-new-order.php:128
 msgid ""
-"Enter recipients (comma separated) for this email. Defaults to "
-"<code>%s</code>."
+"Enter recipients (comma separated) for this email. Defaults to <code>%s</"
+"code>."
 msgstr "Введите получателей (через запятую). По умолчанию <code>%s</code>."
 
 #: includes/emails/class-wc-email-new-order.php:135
 msgid ""
 "This controls the email subject line. Leave blank to use the default "
 "subject: <code>%s</code>."
-msgstr "Настройка темы письма. Оставьте пустым, чтобы использовать стандартное значение: <code>%s</code>."
+msgstr ""
+"Настройка темы письма. Оставьте пустым, чтобы использовать стандартное "
+"значение: <code>%s</code>."
 
 #: includes/emails/class-wc-email-new-order.php:142
 msgid ""
 "This controls the main heading contained within the email notification. "
 "Leave blank to use the default heading: <code>%s</code>."
-msgstr "Настройка основного заголовка для почтовых уведомлений. Оставьте пустым, чтобы использовать стандартное значение: <code>%s</code>."
+msgstr ""
+"Настройка основного заголовка для почтовых уведомлений. Оставьте пустым, "
+"чтобы использовать стандартное значение: <code>%s</code>."
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:25
 msgid "BACS"
@@ -5954,7 +6013,8 @@ msgstr "Заголовок"
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:104
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:83
 msgid "This controls the title which the user sees during checkout."
-msgstr "Это позволяет задать заголовок, который видит пользователь в процессе оплаты."
+msgstr ""
+"Это позволяет задать заголовок, который видит пользователь в процессе оплаты."
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:75
 msgid "Direct Bank Transfer"
@@ -5972,9 +6032,10 @@ msgstr "Описание"
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:81
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:67
 #: includes/gateways/cod/class-wc-gateway-cod.php:66
-msgid ""
-"Payment method description that the customer will see on your checkout."
-msgstr "Описание способа оплаты, которое покупатель будет видеть при оформлении заказа."
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+"Описание способа оплаты, которое покупатель будет видеть при оформлении "
+"заказа."
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:82
 msgid ""
@@ -5992,7 +6053,8 @@ msgstr "Инструкции"
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:88
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:74
 msgid "Instructions that will be added to the thank you page and emails."
-msgstr "Инструкции, которые будут добавлены на страницу благодарности и в письмо."
+msgstr ""
+"Инструкции, которые будут добавлены на страницу благодарности и в письмо."
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:105
 msgid "Account Details"
@@ -6051,10 +6113,12 @@ msgstr "Чек"
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:26
 msgid ""
-"Allows cheque payments. Why would you take cheques in this day and age? Well"
-" you probably wouldn't but it does allow you to make test purchases for "
+"Allows cheque payments. Why would you take cheques in this day and age? Well "
+"you probably wouldn't but it does allow you to make test purchases for "
 "testing order emails and the 'success' pages etc."
-msgstr "Разрешает оплату по чекам. Почему именно чеки? С их помощью можно оформлять тестовые покупки и страницы оформления заказов."
+msgstr ""
+"Разрешает оплату по чекам. Почему именно чеки? С их помощью можно оформлять "
+"тестовые покупки и страницы оформления заказов."
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:54
 msgid "Enable Cheque Payment"
@@ -6066,9 +6130,11 @@ msgstr "Оплата чеками"
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:68
 msgid ""
-"Please send your cheque to Store Name, Store Street, Store Town, Store State"
-" / County, Store Postcode."
-msgstr "Пожалуйста отправьте ваш чек, указав данные магазина: название, улицу, город, страну/штат, почтовый индекс."
+"Please send your cheque to Store Name, Store Street, Store Town, Store "
+"State / County, Store Postcode."
+msgstr ""
+"Пожалуйста отправьте ваш чек, указав данные магазина: название, улицу, "
+"город, страну/штат, почтовый индекс."
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:116
 msgid "Awaiting cheque payment"
@@ -6110,9 +6176,11 @@ msgstr "Включить способы доставки"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:90
 msgid ""
-"If COD is only available for certain methods, set it up here. Leave blank to"
-" enable for all methods."
-msgstr "Если оплата курьеру доступна только для определенных способов доставки, задайте её здесь. Оставьте поле пустым, чтобы включить для всех методов."
+"If COD is only available for certain methods, set it up here. Leave blank to "
+"enable for all methods."
+msgstr ""
+"Если оплата курьеру доступна только для определенных способов доставки, "
+"задайте её здесь. Оставьте поле пустым, чтобы включить для всех методов."
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:94
 msgid "Select shipping methods"
@@ -6155,7 +6223,9 @@ msgstr "Оплачивайте кредитной картой безопасн�
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:152
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:141
 msgid "This controls the description which the user sees during checkout."
-msgstr "Тут можно изменять описание, которое видит пользователь при проведении платежа."
+msgstr ""
+"Тут можно изменять описание, которое видит пользователь при проведении "
+"платежа."
 
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:171
 msgid "Get started with Mijireh Checkout"
@@ -6164,8 +6234,8 @@ msgstr "Начало работы с оплатой Mijireh"
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:172
 msgid ""
 "provides a fully PCI Compliant, secure way to collect and transmit credit "
-"card data to your payment gateway while keeping you in control of the design"
-" of your site. Mijireh supports a wide variety of payment gateways: Stripe, "
+"card data to your payment gateway while keeping you in control of the design "
+"of your site. Mijireh supports a wide variety of payment gateways: Stripe, "
 "Authorize.net, PayPal, eWay, SagePay, Braintree, PayLeap, and more."
 msgstr ""
 
@@ -6180,8 +6250,8 @@ msgstr "Узнайте больше о WooCommerce и Mijireh"
 #: includes/gateways/mijireh/class-wc-gateway-mijireh.php:178
 msgid ""
 "provides a fully PCI Compliant, secure way to collect and transmit credit "
-"card data to your payment gateway while keeping you in control of the design"
-" of your site."
+"card data to your payment gateway while keeping you in control of the design "
+"of your site."
 msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:31
@@ -6201,7 +6271,9 @@ msgstr "PayPal стандарт"
 msgid ""
 "PayPal standard works by sending the user to PayPal to enter their payment "
 "information."
-msgstr "PayPal стандарт работает через отправку пользователя на PayPal для ввода платежной информации."
+msgstr ""
+"PayPal стандарт работает через отправку пользователя на PayPal для ввода "
+"платежной информации."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:111
 msgid "Gateway Disabled"
@@ -6217,9 +6289,11 @@ msgstr "Включи PayPal стандарт"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:142
 msgid ""
-"Pay via PayPal; you can pay with your credit card if you don't have a PayPal"
-" account"
-msgstr "Заплатить через PayPal; вы можете заплатить пластиковой картой если у вас нет PayPal аккаунта"
+"Pay via PayPal; you can pay with your credit card if you don't have a PayPal "
+"account"
+msgstr ""
+"Заплатить через PayPal; вы можете заплатить пластиковой картой если у вас "
+"нет PayPal аккаунта"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:145
 msgid "PayPal Email"
@@ -6229,7 +6303,9 @@ msgstr "Email для PayPal"
 msgid ""
 "Please enter your PayPal email address; this is needed in order to take "
 "payment."
-msgstr "Пожалуйста, введите свой PayPal email-адрес; это необходимо для получения платежа."
+msgstr ""
+"Пожалуйста, введите свой PayPal email-адрес; это необходимо для получения "
+"платежа."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:153
 msgid "Receiver Email"
@@ -6237,8 +6313,8 @@ msgstr "Получатель почты"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:155
 msgid ""
-"If this differs from the email entered above, input your main receiver email"
-" for your PayPal account. This is used to validate IPN requests."
+"If this differs from the email entered above, input your main receiver email "
+"for your PayPal account. This is used to validate IPN requests."
 msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:161
@@ -6266,7 +6342,10 @@ msgid ""
 "Please enter a prefix for your invoice numbers. If you use your PayPal "
 "account for multiple stores ensure this prefix is unique as PayPal will not "
 "allow orders with the same invoice number."
-msgstr "Пожалуйста, введите префикс для номеров счетов. Если вы используете ваш PayPal аккаунт для нескольких магазинов этот префикс должен быть уникальным, так как PayPal не позволит делать заказы с тем же номером счета-фактуры."
+msgstr ""
+"Пожалуйста, введите префикс для номеров счетов. Если вы используете ваш "
+"PayPal аккаунт для нескольких магазинов этот префикс должен быть уникальным, "
+"так как PayPal не позволит делать заказы с тем же номером счета-фактуры."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:176
 msgid "Payment Action"
@@ -6308,7 +6387,9 @@ msgstr "Стиль страницы"
 msgid ""
 "Optionally enter the name of the page style you wish to use. These are "
 "defined within your PayPal account."
-msgstr "При необходимости введите имя страницы, стиль которой вы хотите использовать. Они определены в вашем аккаунте PayPal."
+msgstr ""
+"При необходимости введите имя страницы, стиль которой вы хотите "
+"использовать. Они определены в вашем аккаунте PayPal."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:202
 msgid "Shipping options"
@@ -6326,7 +6407,9 @@ msgstr "Отправлять в PayPal реквизиты доставки вм�
 msgid ""
 "PayPal allows us to send 1 address. If you are using PayPal for shipping "
 "labels you may prefer to send the shipping address rather than billing."
-msgstr "PayPal позволяет нам отправлять 1 адрес. Если вы используете PayPal для оформления доставки, вы можете выбрать адрес доставки, а не оплаты."
+msgstr ""
+"PayPal позволяет нам отправлять 1 адрес. Если вы используете PayPal для "
+"оформления доставки, вы можете выбрать адрес доставки, а не оплаты."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:214
 msgid "Address override"
@@ -6342,7 +6425,9 @@ msgstr ""
 msgid ""
 "PayPal verifies addresses therefore this setting can cause errors (we "
 "recommend keeping it disabled)."
-msgstr "PayPal сверяет адреса, поэтому эта настройка может вызывать ошибки (рекомендуем не включать ее)."
+msgstr ""
+"PayPal сверяет адреса, поэтому эта настройка может вызывать ошибки "
+"(рекомендуем не включать ее)."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:221
 msgid "Gateway Testing"
@@ -6358,8 +6443,8 @@ msgstr "Включить PayPal «песочницу»"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:230
 msgid ""
-"PayPal sandbox can be used to test payments. Sign up for a developer account"
-" <a href=\"%s\">here</a>."
+"PayPal sandbox can be used to test payments. Sign up for a developer account "
+"<a href=\"%s\">here</a>."
 msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:233
@@ -6372,8 +6457,8 @@ msgstr "Включить протоколирование"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:237
 msgid ""
-"Log PayPal events, such as IPN requests, inside "
-"<code>woocommerce/logs/paypal-%s.txt</code>"
+"Log PayPal events, such as IPN requests, inside <code>woocommerce/logs/"
+"paypal-%s.txt</code>"
 msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:361
@@ -6392,7 +6477,8 @@ msgstr "Доставка через %s"
 msgid ""
 "Thank you for your order. We are now redirecting you to PayPal to make "
 "payment."
-msgstr "Спасибо за заказ. Мы перенаправляем вас на PayPal для проведения оплаты."
+msgstr ""
+"Спасибо за заказ. Мы перенаправляем вас на PayPal для проведения оплаты."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:491
 msgid "Pay via PayPal"
@@ -6406,7 +6492,10 @@ msgstr "Отменить заказ &amp; восстановить корзин�
 msgid ""
 "Thank you - your order is now pending payment. You should be automatically "
 "redirected to PayPal to make payment."
-msgstr "Спасибо, ваш заказ находится сейчас в стадии оплаты. Вы должны быть автоматически перенаправлены на сайт платежной системы PayPal для совершения платежа."
+msgstr ""
+"Спасибо, ваш заказ находится сейчас в стадии оплаты. Вы должны быть "
+"автоматически перенаправлены на сайт платежной системы PayPal для совершения "
+"платежа."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:701
 msgid "Validation error: PayPal currencies do not match (code %s)."
@@ -6489,7 +6578,9 @@ msgstr "Единая ставка"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:27
 msgid "Flat rates let you define a standard rate per item, or per order."
-msgstr "Единые ставки позволяют определять стандартную ставку за позицию или весь заказ."
+msgstr ""
+"Единые ставки позволяют определять стандартную ставку за позицию или весь "
+"заказ."
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:77
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:51
@@ -6555,7 +6646,9 @@ msgstr "Стоимость/заказ"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:121
 msgid "Enter a cost (excluding tax) per order, e.g. 5.00. Default is 0."
-msgstr "Введите стоимость (без учета налогов) за заказ, например 5.00. По умолчанию 0."
+msgstr ""
+"Введите стоимость (без учета налогов) за заказ, например 5.00. По умолчанию "
+"0."
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:126
 msgid "Additional Rates"
@@ -6563,9 +6656,9 @@ msgstr "Добавочная цена"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:128
 msgid ""
-"Optional extra shipping options with additional costs (one per line): Option"
-" Name | Additional Cost [+- Percents] | Per Cost Type (order, class, or "
-"item) Example: <code>Priority Mail | 6.95 [+ 0.2%] | order</code>."
+"Optional extra shipping options with additional costs (one per line): Option "
+"Name | Additional Cost [+- Percents] | Per Cost Type (order, class, or item) "
+"Example: <code>Priority Mail | 6.95 [+ 0.2%] | order</code>."
 msgstr ""
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:131
@@ -6596,12 +6689,14 @@ msgstr "Целый заказ — доставка оплачивается за
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:144
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:97
 msgid "Per Item - charge shipping for each item individually"
-msgstr "За наименование — доставка оплачивается за каждое наименование в заказе"
+msgstr ""
+"За наименование — доставка оплачивается за каждое наименование в заказе"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:145
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:98
 msgid "Per Class - charge shipping for each shipping class in an order"
-msgstr "За класс — оплата доставки осуществляется за каждый отдельный класс в заказе"
+msgstr ""
+"За класс — оплата доставки осуществляется за каждый отдельный класс в заказе"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:152
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:118
@@ -6613,7 +6708,9 @@ msgstr "Минимальный взнос за обработку"
 msgid ""
 "Enter a minimum fee amount. Fee's less than this will be increased. Leave "
 "blank to disable."
-msgstr "Введите минимальную сумму. Суммы меньше неё будут увеличены. Оставьте поле пустым, чтобы отключить."
+msgstr ""
+"Введите минимальную сумму. Суммы меньше неё будут увеличены. Оставьте поле "
+"пустым, чтобы отключить."
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:540
 msgid "Costs"
@@ -6636,7 +6733,9 @@ msgstr "Взнос за обработку"
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:548
 msgid ""
 "Fee excluding tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%."
-msgstr "Плата за исключением налога. Введите значение, к примеру, 2.50 или укажите процент, к примеру, 5%."
+msgstr ""
+"Плата за исключением налога. Введите значение, к примеру, 2.50 или укажите "
+"процент, к примеру, 5%."
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:553
 msgid "+ Add Cost"
@@ -6708,9 +6807,10 @@ msgstr "Минимальный заказ"
 
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:113
 msgid ""
-"Users will need to spend this amount to get free shipping (if enabled "
-"above)."
-msgstr "Покупателям нужно будет потратить эту сумму, чтобы получить бесплатную доставку (если включено выше)."
+"Users will need to spend this amount to get free shipping (if enabled above)."
+msgstr ""
+"Покупателям нужно будет потратить эту сумму, чтобы получить бесплатную "
+"доставку (если включено выше)."
 
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:29
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:58
@@ -6739,13 +6839,17 @@ msgstr "Стоимость добавлена..."
 
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:105
 msgid "Cost excluding tax. Enter an amount, e.g. 2.50. Default is 0"
-msgstr "Стоимость без учета налогов. Введите значение, к примеру, 2.50. По умолчанию 0"
+msgstr ""
+"Стоимость без учета налогов. Введите значение, к примеру, 2.50. По умолчанию "
+"0"
 
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:112
 msgid ""
 "Fee excluding tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%. "
 "Leave blank to disable."
-msgstr "Взнос без налога. Введите значение, например, 2.50, или проценты, например, 5%. Оставьте пустым, чтобы было неактивным."
+msgstr ""
+"Взнос без налога. Введите значение, например, 2.50, или проценты, например, "
+"5%. Оставьте пустым, чтобы было неактивным."
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:25
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:105
@@ -6787,8 +6891,8 @@ msgstr "Комиссия за доставку"
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:123
 msgid ""
-"What fee do you want to charge for local delivery, disregarded if you choose"
-" free. Leave blank to disable."
+"What fee do you want to charge for local delivery, disregarded if you choose "
+"free. Leave blank to disable."
 msgstr ""
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:129
@@ -6798,14 +6902,16 @@ msgstr "Индекс"
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:131
 msgid ""
-"What zip/post codes would you like to offer delivery to? Separate codes with"
-" a comma. Accepts wildcards, e.g. P* will match a postcode of PE30."
+"What zip/post codes would you like to offer delivery to? Separate codes with "
+"a comma. Accepts wildcards, e.g. P* will match a postcode of PE30."
 msgstr ""
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:169
 msgid ""
 "Local delivery is a simple shipping method for delivering orders locally."
-msgstr "Местная доставка — это простой метод доставки товаров в пределах города или района."
+msgstr ""
+"Местная доставка — это простой метод доставки товаров в пределах города или "
+"района."
 
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:25
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:84
@@ -6826,7 +6932,9 @@ msgstr ""
 msgid ""
 "Local pickup is a simple method which allows the customer to pick up their "
 "order themselves."
-msgstr "Самовывоз — это простой метод, позволяющий клиенту указать в заказе его желание лично забрать товар со склада или из офиса."
+msgstr ""
+"Самовывоз — это простой метод, позволяющий клиенту указать в заказе его "
+"желание лично забрать товар со склада или из офиса."
 
 #: includes/shortcodes/class-wc-shortcode-cart.php:58
 msgid "Shipping costs updated."
@@ -6876,7 +6984,9 @@ msgstr "Метод оплаты:"
 msgid ""
 "The order totals have been updated. Please confirm your order by pressing "
 "the Place Order button at the bottom of the page."
-msgstr "Итоговая сумма заказа обновлена. Пожалуйста, подтвердите заказ по нажатию кнопки «Разместить заказ» внизу страницы."
+msgstr ""
+"Итоговая сумма заказа обновлена. Пожалуйста, подтвердите заказ по нажатию "
+"кнопки «Разместить заказ» внизу страницы."
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:202
 msgid "Your password has been reset."
@@ -7141,9 +7251,9 @@ msgid "Product % Discount"
 msgstr "Скидка на товар %"
 
 #: includes/wc-customer-functions.php:52
-msgid ""
-"An account is already registered with your email address. Please login."
-msgstr "Аккаунт с таким email-адресом уже зарегистрирован. Пожалуйста, авторизуйтесь."
+msgid "An account is already registered with your email address. Please login."
+msgstr ""
+"Аккаунт с таким email-адресом уже зарегистрирован. Пожалуйста, авторизуйтесь."
 
 #: includes/wc-customer-functions.php:61
 msgid "Please enter a valid account username."
@@ -7152,7 +7262,9 @@ msgstr "Пожалуйста, введите корректное имя пол�
 #: includes/wc-customer-functions.php:65
 msgid ""
 "An account is already registered with that username. Please choose another."
-msgstr "Аккаунт с таким именем пользователя уже зарегистрирован. Пожалуйста, выберите другое имя."
+msgstr ""
+"Аккаунт с таким именем пользователя уже зарегистрирован. Пожалуйста, "
+"выберите другое имя."
 
 #: includes/wc-customer-functions.php:85
 msgid "Please enter an account password."
@@ -7162,7 +7274,9 @@ msgstr "Пожалуйста, введите пароль для аккаунт�
 msgid ""
 "Couldn&#8217;t register you&hellip; please contact us if you continue to "
 "have problems."
-msgstr "Регистрация не прошла&hellip; Пожалуйста, сообщите нам, если это проблема повторится."
+msgstr ""
+"Регистрация не прошла&hellip; Пожалуйста, сообщите нам, если это проблема "
+"повторится."
 
 #: includes/wc-order-functions.php:295
 msgid "Unpaid order cancelled - time limit reached."
@@ -7213,7 +7327,9 @@ msgstr "Отзывы  (%d)"
 msgid ""
 "Use $args argument as an array instead. Deprecated argument will be removed "
 "in WC 2.2."
-msgstr "Используйте аргумент $args как массив. Устаревший аргумент будет удален в WC 2.2."
+msgstr ""
+"Используйте аргумент $args как массив. Устаревший аргумент будет удален в WC "
+"2.2."
 
 #: includes/wc-template-functions.php:1257
 msgctxt "breadcrumb"
@@ -7305,7 +7421,9 @@ msgstr "Максимум"
 msgid ""
 "Shows a custom attribute in a widget which lets you narrow down the list of "
 "products when viewing product categories."
-msgstr "Показывать выборочное свойство в виджете, которое позволяет составлять небольшой список товаров при навигации по товарным категориям."
+msgstr ""
+"Показывать выборочное свойство в виджете, которое позволяет составлять "
+"небольшой список товаров при навигации по товарным категориям."
 
 #: includes/widgets/class-wc-widget-layered-nav.php:23
 msgid "WooCommerce Layered Nav"
@@ -7351,7 +7469,9 @@ msgstr "Любой %s"
 msgid ""
 "Shows a price filter slider in a widget which lets you narrow down the list "
 "of shown products when viewing product categories."
-msgstr "Показывает слайдер ценовой сортировки, который позволяет выбирать из списков товары по категориям."
+msgstr ""
+"Показывает слайдер ценовой сортировки, который позволяет выбирать из списков "
+"товары по категориям."
 
 #: includes/widgets/class-wc-widget-price-filter.php:25
 msgid "WooCommerce Price Filter"
@@ -7586,7 +7706,9 @@ msgstr "Извините, доставка %s недоступна."
 msgid ""
 "If you require assistance or wish to make alternate arrangements please "
 "contact us."
-msgstr "Если вам необходима помощь или вы желаете внести какие-либо корректировки, пожалуйста, сообщите нам об этом."
+msgstr ""
+"Если вам необходима помощь или вы желаете внести какие-либо корректировки, "
+"пожалуйста, сообщите нам об этом."
 
 #: templates/cart/cart-shipping.php:97
 msgid "Shipping"
@@ -7610,9 +7732,12 @@ msgstr "(налоги оцениваются для %s)"
 
 #: templates/cart/cart-totals.php:90
 msgid ""
-"Note: Shipping and taxes are estimated%s and will be updated during checkout"
-" based on your billing and shipping information."
-msgstr "Обратите внимание: Доставка и налоги составят приблизительно %s и будут указаны в процессе оплаты на основе ваших реквизитов и данных об адресе доставки."
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Обратите внимание: Доставка и налоги составят приблизительно %s и будут "
+"указаны в процессе оплаты на основе ваших реквизитов и данных об адресе "
+"доставки."
 
 #: templates/cart/cart.php:29 templates/emails/admin-new-order.php:23
 #: templates/emails/customer-completed-order.php:24
@@ -7685,7 +7810,9 @@ msgstr "Обновить итог"
 msgid ""
 "There are some issues with the items in your cart (shown above). Please go "
 "back to the cart page and resolve these issues before checking out."
-msgstr "Возникли проблемы с наименованиями в вашей корзине (указаны ниже). Просим вернуться на страницу корзины и попытаться устранить эти проблемы до оплаты."
+msgstr ""
+"Возникли проблемы с наименованиями в вашей корзине (указаны ниже). Просим "
+"вернуться на страницу корзины и попытаться устранить эти проблемы до оплаты."
 
 #: templates/checkout/cart-errors.php:20
 msgid "Return To Cart"
@@ -7707,7 +7834,9 @@ msgstr "Зарегистрировать вас?"
 msgid ""
 "Create an account by entering the information below. If you are a returning "
 "customer please login at the top of the page."
-msgstr "Создать учетную запись, введя следующие данные. Если вы зарегистрированный клиент войдите в верхней части страницы."
+msgstr ""
+"Создать учетную запись, введя следующие данные. Если вы зарегистрированный "
+"клиент войдите в верхней части страницы."
 
 #: templates/checkout/form-checkout.php:20
 msgid "You must be logged in to checkout."
@@ -7738,7 +7867,10 @@ msgid ""
 "If you have shopped with us before, please enter your details in the boxes "
 "below. If you are a new customer please proceed to the Billing &amp; "
 "Shipping section."
-msgstr "Если вы раньше делали заказ, пожалуйста, введите имя пользователя и пароль в полях снизу. Если вы новый клиент, то, пожалуйста, заполните раздел с информацией об оплате и доставке."
+msgstr ""
+"Если вы раньше делали заказ, пожалуйста, введите имя пользователя и пароль в "
+"полях снизу. Если вы новый клиент, то, пожалуйста, заполните раздел с "
+"информацией об оплате и доставке."
 
 #: templates/checkout/form-pay.php:20
 msgid "Qty"
@@ -7757,7 +7889,10 @@ msgid ""
 "Sorry, it seems that there are no available payment methods for your "
 "location. Please contact us if you require assistance or wish to make "
 "alternate arrangements."
-msgstr "К сожалению, у нас не предусмотрены доступные методы оплаты для вашей страны. Пожалуйста, свяжитесь с нами если вам необходимо консультация или специальные условия."
+msgstr ""
+"К сожалению, у нас не предусмотрены доступные методы оплаты для вашей "
+"страны. Пожалуйста, свяжитесь с нами если вам необходимо консультация или "
+"специальные условия."
 
 #: templates/checkout/form-pay.php:89
 msgid "Pay for order"
@@ -7769,14 +7904,18 @@ msgstr "Доставка по другому адресу?"
 
 #: templates/checkout/review-order.php:150
 msgid "Please fill in your details above to see available payment methods."
-msgstr "Пожалуйста, введите детали выше, чтобы увидеть доступные методы оплаты."
+msgstr ""
+"Пожалуйста, введите детали выше, чтобы увидеть доступные методы оплаты."
 
 #: templates/checkout/review-order.php:152
 msgid ""
 "Sorry, it seems that there are no available payment methods for your state. "
 "Please contact us if you require assistance or wish to make alternate "
 "arrangements."
-msgstr "К сожалению, у нас не предусмотрены доступные методы оплаты для вашей страны. Пожалуйста, свяжитесь с нами если вам необходима консультация или специальные условия."
+msgstr ""
+"К сожалению, у нас не предусмотрены доступные методы оплаты для вашей "
+"страны. Пожалуйста, свяжитесь с нами если вам необходима консультация или "
+"специальные условия."
 
 #: templates/checkout/review-order.php:163
 msgid ""
@@ -7784,7 +7923,11 @@ msgid ""
 "ensure you click the <em>Update Totals</em> button before placing your "
 "order. You may be charged more than the amount stated above if you fail to "
 "do so."
-msgstr "Поскольку ваш браузер не поддерживает JavaScript или в нем он отключен, просим убедиться в том, что вы нажали кнопку <em>обновить итоги</em> перед размещением заказа. Есть риск неправильного подсчета стоимости если вышеуказанное действие не было произведено."
+msgstr ""
+"Поскольку ваш браузер не поддерживает JavaScript или в нем он отключен, "
+"просим убедиться в том, что вы нажали кнопку <em>обновить итоги</em> перед "
+"размещением заказа. Есть риск неправильного подсчета стоимости если "
+"вышеуказанное действие не было произведено."
 
 #: templates/checkout/review-order.php:163
 msgid "Update totals"
@@ -7798,17 +7941,22 @@ msgstr "Разместить заказ"
 msgid ""
 "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
 "conditions</a>"
-msgstr "Я прочитал и принимаю <a href=\"%s\" target=\"_blank\">условия и правила</a>"
+msgstr ""
+"Я прочитал и принимаю <a href=\"%s\" target=\"_blank\">условия и правила</a>"
 
 #: templates/checkout/thankyou.php:18
 msgid ""
-"Unfortunately your order cannot be processed as the originating "
-"bank/merchant has declined your transaction."
-msgstr "К сожалению, ваш заказ не может быть обработан из-за месторасположения банка и продавца, поэтому транзакция была отклонена."
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"К сожалению, ваш заказ не может быть обработан из-за месторасположения банка "
+"и продавца, поэтому транзакция была отклонена."
 
 #: templates/checkout/thankyou.php:22
 msgid "Please attempt your purchase again or go to your account page."
-msgstr "Пожалуйста, попробуйте осуществить покупку снова или проверьте информацию в профиле."
+msgstr ""
+"Пожалуйста, попробуйте осуществить покупку снова или проверьте информацию в "
+"профиле."
 
 #: templates/checkout/thankyou.php:24
 msgid "Please attempt your purchase again."
@@ -7820,7 +7968,9 @@ msgstr "Оплатить"
 
 #: templates/checkout/thankyou.php:36 templates/checkout/thankyou.php:67
 msgid "Thank you. Your order has been received."
-msgstr "Благодарим за заказ. Наши менеджеры получили информацию и вскоре её обработают."
+msgstr ""
+"Благодарим за заказ. Наши менеджеры получили информацию и вскоре её "
+"обработают."
 
 #: templates/emails/admin-new-order.php:13
 #: templates/emails/plain/admin-new-order.php:13
@@ -7866,16 +8016,20 @@ msgstr "Тел.:"
 #: templates/emails/customer-completed-order.php:14
 #: templates/emails/plain/customer-completed-order.php:13
 msgid ""
-"Hi there. Your recent order on %s has been completed. Your order details are"
-" shown below for your reference:"
-msgstr "Здравствуйте. Ваш недавний заказ от %s был выполнен. Информация о заказе предоставлена ниже для вашего удобства:"
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+"Здравствуйте. Ваш недавний заказ от %s был выполнен. Информация о заказе "
+"предоставлена ниже для вашего удобства:"
 
 #: templates/emails/customer-invoice.php:16
 #: templates/emails/plain/customer-invoice.php:14
 msgid ""
 "An order has been created for you on %s. To pay for this order please use "
 "the following link: %s"
-msgstr "Заказ ыбл создан для вас %s. Для оплаты этого заказа пожалуйста используйте нижеследующую ссылку: %s"
+msgstr ""
+"Заказ ыбл создан для вас %s. Для оплаты этого заказа пожалуйста используйте "
+"нижеследующую ссылку: %s"
 
 #: templates/emails/customer-invoice.php:16
 msgid "pay"
@@ -7896,7 +8050,9 @@ msgstr "Ваш пароль сгенерирован автоматически:
 msgid ""
 "You can access your account area to view your orders and change your "
 "password here: %s."
-msgstr "Вы можете получить доступ к вашей учетной записи, чтобы просматривать заказы и изменить пароль, здесь: %s."
+msgstr ""
+"Вы можете получить доступ к вашей учетной записи, чтобы просматривать заказы "
+"и изменить пароль, здесь: %s."
 
 #: templates/emails/customer-note.php:14
 #: templates/emails/plain/customer-note.php:13
@@ -7913,12 +8069,13 @@ msgstr "Обратите внимание, что детали заказа ук
 msgid ""
 "Your order has been received and is now being processed. Your order details "
 "are shown below for your reference:"
-msgstr "Ваш заказ был принят и сейчас находится в обработке. Информация о заказе приведена ниже для вашего удобства:"
+msgstr ""
+"Ваш заказ был принят и сейчас находится в обработке. Информация о заказе "
+"приведена ниже для вашего удобства:"
 
 #: templates/emails/customer-reset-password.php:14
 #: templates/emails/plain/customer-reset-password.php:13
-msgid ""
-"Someone requested that the password be reset for the following account:"
+msgid "Someone requested that the password be reset for the following account:"
 msgstr "Кто-то запросил сброс пароля для этого аккаунта:"
 
 #: templates/emails/customer-reset-password.php:15
@@ -7929,7 +8086,8 @@ msgstr "Логин: %s"
 #: templates/emails/customer-reset-password.php:16
 #: templates/emails/plain/customer-reset-password.php:16
 msgid "If this was a mistake, just ignore this email and nothing will happen."
-msgstr "Если это была ошибка, просто игнорируйте это письмо, и ничего не случится."
+msgstr ""
+"Если это была ошибка, просто игнорируйте это письмо, и ничего не случится."
 
 #: templates/emails/customer-reset-password.php:17
 #: templates/emails/plain/customer-reset-password.php:17
@@ -8096,14 +8254,17 @@ msgstr "Показ %1$d–%2$d из %3$d результатов"
 
 #: templates/loop/sale-flash.php:16 templates/single-product/sale-flash.php:16
 msgid "Sale!"
-msgstr "Распродажа!"
+msgstr "Скидка!"
 
 #: templates/myaccount/form-add-payment-method.php:40
 msgid ""
-"Sorry, it seems that there are no payment methods which support adding a new"
-" payment method. Please contact us if you require assistance or wish to make"
-" alternate arrangements."
-msgstr "Извините, нет способов оплаты, которые поддерживают добавление нового метода оплаты. Пожалуйста, свяжитесь с нами, если вам необходима помощь или вы хотели бы иметь альтернативные механизмы."
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Извините, нет способов оплаты, которые поддерживают добавление нового метода "
+"оплаты. Пожалуйста, свяжитесь с нами, если вам необходима помощь или вы "
+"хотели бы иметь альтернативные механизмы."
 
 #: templates/myaccount/form-add-payment-method.php:48
 msgid "Add Payment Method"
@@ -8169,7 +8330,9 @@ msgstr "Анти-спам"
 msgid ""
 "Lost your password? Please enter your username or email address. You will "
 "receive a link to create a new password via email."
-msgstr "Забыли пароль? Укажите свою почту или логин. Ссылку на создание нового пароля вы получите по электронной почте."
+msgstr ""
+"Забыли пароль? Укажите свою почту или логин. Ссылку на создание нового "
+"пароля вы получите по электронной почте."
 
 #: templates/myaccount/form-lost-password.php:28
 msgid "Enter a new password below."
@@ -8193,14 +8356,18 @@ msgstr "Сохранить"
 
 #: templates/myaccount/my-account.php:19
 msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
-msgstr "Здравствуйте, <strong>%1$s</strong> (не %1$s? <a href=\"%2$s\">Выйти</a>)."
+msgstr ""
+"Здравствуйте, <strong>%1$s</strong> (не %1$s? <a href=\"%2$s\">Выйти</a>)."
 
 #: templates/myaccount/my-account.php:24
 msgid ""
 "From your account dashboard you can view your recent orders, manage your "
 "shipping and billing addresses and <a href=\"%s\">edit your password and "
 "account details</a>."
-msgstr "С главной панели вашего аккаунта вы можете просматривать недавние заказы, настроить адрес доставки и реквизиты оплаты, а также <a href=\"%s\">изменить пароль и детали аккаунта</a>."
+msgstr ""
+"С главной панели вашего аккаунта вы можете просматривать недавние заказы, "
+"настроить адрес доставки и реквизиты оплаты, а также <a href=\"%s\">изменить "
+"пароль и детали аккаунта</a>."
 
 #: templates/myaccount/my-address.php:17
 msgid "My Addresses"
@@ -8254,10 +8421,13 @@ msgstr "Просмотр"
 
 #: templates/myaccount/view-order.php:12
 msgid ""
-"Order <mark class=\"order-number\">%s</mark> was placed on <mark class"
-"=\"order-date\">%s</mark> and is currently <mark class=\"order-"
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+"Заказ <mark class=\"order-number\">%s</mark> оформлен <mark class=\"order-"
+"date\">%s</mark> и в данный момент находится в статусе <mark class=\"order-"
 "status\">%s</mark>."
-msgstr "Заказ <mark class=\"order-number\">%s</mark> оформлен <mark class=\"order-date\">%s</mark> и в данный момент находится в статусе <mark class=\"order-status\">%s</mark>."
 
 #: templates/myaccount/view-order.php:16 templates/order/tracking.php:31
 msgid "Order Updates"
@@ -8272,7 +8442,10 @@ msgid ""
 "To track your order please enter your Order ID in the box below and press "
 "return. This was given to you on your receipt and in the confirmation email "
 "you should have received."
-msgstr "Для отслеживания заказа, пожалуйста, введите ID-заказа в поле ниже и нажмите на кнопку. ID-заказа указан в письме, которое вы получили по электронной почте."
+msgstr ""
+"Для отслеживания заказа, пожалуйста, введите ID-заказа в поле ниже и нажмите "
+"на кнопку. ID-заказа указан в письме, которое вы получили по электронной "
+"почте."
 
 #: templates/order/form-tracking.php:19
 msgid "Order ID"
@@ -8465,7 +8638,9 @@ msgstr "Ваши отзывы"
 #: templates/single-product-reviews.php:92
 msgid ""
 "Only logged in customers who have purchased this product may leave a review."
-msgstr "Только зарегистрированные покупатели, которые приобрели этот товар, могут оставить отзыв."
+msgstr ""
+"Только зарегистрированные покупатели, которые приобрели этот товар, могут "
+"оставить отзыв."
 
 #: woocommerce.php:182
 msgid "Docs"
@@ -8481,7 +8656,9 @@ msgstr "http://www.woothemes.com/woocommerce/"
 
 #. Description of the plugin/theme
 msgid "An e-commerce toolkit that helps you sell anything. Beautifully."
-msgstr "Инструмент электронной коммерции, помогающий продавать все что угодно. Прекрасно."
+msgstr ""
+"Инструмент электронной коммерции, помогающий продавать все что угодно. "
+"Прекрасно."
 
 #. Author of the plugin/theme
 msgid "WooThemes"
